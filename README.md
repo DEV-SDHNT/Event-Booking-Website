@@ -5,8 +5,8 @@
 ### Features :
 <ul>
 <li>Authentication.
-<li>Admin Page for Managing Events
-<li>Admin Dashboard for Booking stats.
+<li>Admin Page for Managing Events.
+<li>Admin Dashboard for Booking stats & creating new Events.
 <li>Common Dashboard for admin & clients to book events.
 <li>Client Dashboard for booking history and managing their events.
-
+</ul>
